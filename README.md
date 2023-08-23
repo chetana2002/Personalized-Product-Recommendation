@@ -8,10 +8,10 @@ By considering various factors such as user preferences, historical interactions
 engagement and satisfaction.
 
 # Features
-Utilizes recommendation algorithms including Popularity-Based, Content-Based, Collaborative Filtering, and Hybrid Approaches to provide diverse and relevant recommendations.
-Simulates user interactions and interaction patterns to simulate real-world user behavior and generate personalized rankings.
-Offers a modular architecture allowing for easy integration of advanced techniques like NLP, deep learning, and more.
-Provides evaluation metrics and A/B testing frameworks to measure the accuracy and effectiveness of recommendation strategies.
+-Utilizes recommendation algorithms including Popularity-Based, Content-Based, Collaborative Filtering, and Hybrid Approaches to provide diverse and relevant recommendations.
+-Simulates user interactions and interaction patterns to simulate real-world user behavior and generate personalized rankings.
+-Offers a modular architecture allowing for easy integration of advanced techniques like NLP, deep learning, and more.
+-Provides evaluation metrics and A/B testing frameworks to measure the accuracy and effectiveness of recommendation strategies.
 
 # Data Description:
 Link : https://www.kaggle.com/saurav9786/amazon-product-reviews?fbclid=IwAR26xfJJK1c5zEeXh8yK9tTgDZrXSkdZIIfjGOhnegCobgskrUEYFcky_cw
