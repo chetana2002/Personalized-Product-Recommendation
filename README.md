@@ -19,8 +19,10 @@ Link : https://www.kaggle.com/saurav9786/amazon-product-reviews?fbclid=IwAR26xfJ
 The dataset here is taken from the below website.
 
 # Getting Started
-Clone the repository: git clone https://github.com/yourusername/personalized-ranking.git
+Clone the repository: git clone https://github.com/chetana2002/personalized-ranking.git
+
 Install required dependencies: pip install -r requirements.txt
+
 Run the main script to simulate user interactions and generate personalized rankings.
 
 
